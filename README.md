@@ -2,6 +2,8 @@
 
 This repository contains a complete machine learning pipeline using the Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic) to predict survival using XGBoost. The notebook demonstrates data cleaning, feature engineering, model building, hyperparameter tuning, and result visualization.
 
+🏆 Bronze medal
+
 ## 📁 Dataset
 
 The data used in this project is from the Titanic competition available at: [Kaggle Titanic Challenge](https://www.kaggle.com/c/titanic)
